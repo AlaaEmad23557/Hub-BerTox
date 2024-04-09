@@ -1,6 +1,6 @@
 -- صنعت من قبل بيرتوكس
 game:GetService("StarterGui"):SetCore("SendNotification",{ 	Title = "Made By |صنع من قبل ",Text = "BerTox | بيرتوكس",})
-
+wait(2)
 game:GetService("StarterGui"):SetCore("SendNotification",{ 	
 
 Title = "wait... | انتظر",  	
@@ -9,7 +9,7 @@ Text = "loading... | جار التحميل",
 
 })
 
-wait()
+wait(2)
 
 game:GetService("StarterGui"):SetCore("SendNotification",{ 	
 
