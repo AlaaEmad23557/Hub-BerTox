@@ -1,3 +1,24 @@
+-- صنعت من قبل بيرتوكس
+game:GetService("StarterGui"):SetCore("SendNotification",{ 	Title = "Made By |صنع من قبل ",Text = "BerTox | بيرتوكس",})
+
+game:GetService("StarterGui"):SetCore("SendNotification",{ 	
+
+Title = "wait... | انتظر",  	
+
+Text = "loading... | جار التحميل",
+
+})
+
+wait()
+
+game:GetService("StarterGui"):SetCore("SendNotification",{ 	
+
+Title = "loaded! | تم التحميل",  	
+
+Text = "Have Fun! | استمتع",
+
+})
+
 -- البداية
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
